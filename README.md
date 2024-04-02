@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boobyyy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh Hoàng
 ===============================================================================================================================
 
 Bachelor of Artificial Intelligence
 
 * ✉️  You can contact me at [hoangtm2210@gmail.com](mailto:hoangtm2210@gmail.com)
-* 🧠  I'm learning Data science
+* 🧠  I'm learning Data science/Data analyst
 
 <a href="https://www.github.com/boobyyy03" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/boobyyy03?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
