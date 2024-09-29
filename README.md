@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/boobyyy03/boobyyy03/image/background.png" />
+<img src="https://github.com/boobyyy03/boobyyy03/blob/main/image/background_image.png" />
 
 <p align="center">
  
