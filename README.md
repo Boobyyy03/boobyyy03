@@ -1,6 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Minh Hoàng
-===============================================================================================================================
-![Welcome GIF](https://i.pinimg.com/originals/de/82/6f/de826ff3c95a7354af53c8a05b2c9b2c.gif)
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/boobyyy03/boobyyy03/image/background.png" />
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/boobyyy03/boobyyy03"/> 
+ <!-- <img src="https://badges.pufler.dev/years/boobyyy03"/> -->
+ <img src="https://badges.pufler.dev/repos/boobyyy03"/>
+ <img src="https://badges.pufler.dev/commits/monthly/boobyyy03" />
+
+</p>
 
 I'm a final-year student majoring in Artificial Intelligence (AI) at FPT University, very passionate about technology, especially AI. Always eager to learn and constantly seek to acquire new skills and stay up to date with the latest advances in the field. With a solid background in Data Science, Computer Vision, and Natural language processing,... I hope to be able to apply AI solutions to solve real-world problems and contribute for the ever-evolving technology landscape.
 
